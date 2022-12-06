@@ -10,10 +10,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OMANSAK&show_icons=true&theme=radical"></img>
   <br>
-  <img src="https://badges.pufler.dev/visits/omansak/omansak">
-  <img src="https://badges.pufler.dev/years/omansak">
-  <img src="https://badges.pufler.dev/repos/omansak">
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omansak&layout=compact&theme=radical"></img>
   <br>
   <b>My most using technologies</b>
