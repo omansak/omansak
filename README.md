@@ -1,6 +1,3 @@
-<h3 align="center"><samp>Hey! I am <b><a rel="nofollow noopener noreferrer" target="_blank"
-        href="https://omansak.com/">Osman Şakir (OMANSAK) Kapar</a></b> <br>I'm a 31 y/o software developer
-    based in Istanbul, Turkey.</samp></h3>
 <p align="center"><br>
   <samp>
     「 Computer Engineer B. Sc., M. Sc.  now Ph. D @ <b><a
